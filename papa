@@ -1,3 +1,17 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="PELICULAS " tvg-logo="https://www.ecartelera.com/carteles/15900/15966/001.jpg" group-title="PELICULAS",PINOCHO DISNEY
 https://t19feprfozlsl.aauervcwbolpxls.fun/?s=UFFM7WRVBXTeyJYxNc7gMu6TPKZD7Bo2g4Oo0GkCEeQcXPKL1R1Ol8HbSHO0id2ziRYixiUb
+#EXTINF:-1 tvg-id="24 HORAS" tvg-name="24h  HD" tvg-logo="http://picon.tvparanosotros.ru/picon2019/24H%20SD.png" group-title="00_NOTICIAS",24h  HD
+http://260822wg.xxxzwin.com:8080/live/449386842H817641F/4SrHMjEkKCVF/53154.ts
+#EXTINF:-1 tvg-id="24 HORAS" tvg-name="24 HORAS" tvg-logo="http://picon.tvparanosotros.ru/picon2019/24H%20SD.png" group-title="00_NOTICIAS",24 HORAS
+http://260822wg.xxxzwin.com:8080/live/449386842H817641F/4SrHMjEkKCVF/617.ts
+#EXTINF:-1 tvg-id="" tvg-name="Al Jazeera English" tvg-logo="" group-title="00_NOTICIAS",Al Jazeera English
+http://260822wg.xxxzwin.com:8080/live/449386842H817641F/4SrHMjEkKCVF/7332.ts
+#EXTINF:-1 tvg-id="" tvg-name="Al Jazeera Arabic" tvg-logo="" group-title="00_NOTICIAS",Al Jazeera Arabic
+http://260822wg.xxxzwin.com:8080/live/449386842H817641F/4SrHMjEkKCVF/7333.ts
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="LA 1 HD" tvg-logo="http://picon.tvparanosotros.ru/picon2019/tve%201%20%20hd.png" group-title="01 GENERALISTAS",LA 1 HD
+http://260822wg.xxxzwin.com:8080/live/449386842H817641F/4SrHMjEkKCVF/481.ts
+#EXTINF:-1 tvg-id="la1.es" tvg-name="LA 1" tvg-logo="http://picon.tvparanosotros.ru/picon2019/tve%201%20%20hd.png" group-title="01 GENERALISTAS",LA 1
+http://260822wg.xxxzwin.com:8080/live/449386842H817641F/4SrHMjEkKCVF/623.ts
+#EXTINF:-1 tvg-id="la2.es" tvg-name="La 2 HD" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/tve2.jpg" group-title="01 GENERALISTAS",La 2 HD
+http://260822wg.xxxzwin.com:8080/live/449386842H817641F/4SrHMjEkKCVF/4397.ts
